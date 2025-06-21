@@ -12,7 +12,7 @@
         Console.WriteLine("After modying the num is " + num);
     // }
 
-    static void ModifyByRef(ref int x) {
+    public static void ModifyByRef(ref int x) {
         x = 20;
     }
 // }
@@ -39,3 +39,5 @@
         value = 100;
     }
 // }
+
+// out is useful when a method needs to return multiple values.
