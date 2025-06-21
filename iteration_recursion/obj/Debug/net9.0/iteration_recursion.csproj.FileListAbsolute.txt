@@ -1,0 +1,15 @@
+/Users/charles/Desktop/csharp-scripts/iteration_recursion/obj/Debug/net9.0/iteration_recursion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charles/Desktop/csharp-scripts/iteration_recursion/obj/Debug/net9.0/iteration_recursion.AssemblyInfoInputs.cache
+/Users/charles/Desktop/csharp-scripts/iteration_recursion/obj/Debug/net9.0/iteration_recursion.AssemblyInfo.cs
+/Users/charles/Desktop/csharp-scripts/iteration_recursion/obj/Debug/net9.0/iteration_recursion.csproj.CoreCompileInputs.cache
+/Users/charles/Desktop/csharp-scripts/iteration_recursion/obj/Debug/net9.0/iteration_recursion.sourcelink.json
+/Users/charles/Desktop/csharp-scripts/iteration_recursion/bin/Debug/net9.0/iteration_recursion
+/Users/charles/Desktop/csharp-scripts/iteration_recursion/bin/Debug/net9.0/iteration_recursion.deps.json
+/Users/charles/Desktop/csharp-scripts/iteration_recursion/bin/Debug/net9.0/iteration_recursion.runtimeconfig.json
+/Users/charles/Desktop/csharp-scripts/iteration_recursion/bin/Debug/net9.0/iteration_recursion.dll
+/Users/charles/Desktop/csharp-scripts/iteration_recursion/bin/Debug/net9.0/iteration_recursion.pdb
+/Users/charles/Desktop/csharp-scripts/iteration_recursion/obj/Debug/net9.0/iteration_recursion.dll
+/Users/charles/Desktop/csharp-scripts/iteration_recursion/obj/Debug/net9.0/refint/iteration_recursion.dll
+/Users/charles/Desktop/csharp-scripts/iteration_recursion/obj/Debug/net9.0/iteration_recursion.pdb
+/Users/charles/Desktop/csharp-scripts/iteration_recursion/obj/Debug/net9.0/iteration_recursion.genruntimeconfig.cache
+/Users/charles/Desktop/csharp-scripts/iteration_recursion/obj/Debug/net9.0/ref/iteration_recursion.dll
