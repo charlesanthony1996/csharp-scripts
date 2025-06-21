@@ -130,3 +130,5 @@ public class Cat : IAnimal {
 // summary table
 
 // concept -> description -> c# keyword
+
+// class -> blueprint for objects -> class

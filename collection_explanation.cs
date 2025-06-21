@@ -31,3 +31,9 @@ static void Main() {
         Console.WriteLine($"Total names: {names.Count}");
 }
 
+// When to Use List<T>
+// When you need indexed access to items
+
+// When the size of your collection changes often
+
+// When you want to perform searches, sorting, or LINQ queries

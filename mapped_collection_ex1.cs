@@ -16,3 +16,9 @@ ages["Bob"] = 25;
 ages["Charles"] = 29;
 
 Console.WriteLine(ages["Charles"]);
+
+// Other mapped collections include:
+
+// SortedDictionary<TKey, TValue> – keeps keys sorted
+
+// ConcurrentDictionary<TKey, TValue> – thread-safe version
