@@ -1,0 +1,15 @@
+/Users/charles/Desktop/csharp-scripts/nested_inheritance/obj/Debug/net9.0/nested_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charles/Desktop/csharp-scripts/nested_inheritance/obj/Debug/net9.0/nested_inheritance.AssemblyInfoInputs.cache
+/Users/charles/Desktop/csharp-scripts/nested_inheritance/obj/Debug/net9.0/nested_inheritance.AssemblyInfo.cs
+/Users/charles/Desktop/csharp-scripts/nested_inheritance/obj/Debug/net9.0/nested_inheritance.csproj.CoreCompileInputs.cache
+/Users/charles/Desktop/csharp-scripts/nested_inheritance/obj/Debug/net9.0/nested_inheritance.sourcelink.json
+/Users/charles/Desktop/csharp-scripts/nested_inheritance/bin/Debug/net9.0/nested_inheritance
+/Users/charles/Desktop/csharp-scripts/nested_inheritance/bin/Debug/net9.0/nested_inheritance.deps.json
+/Users/charles/Desktop/csharp-scripts/nested_inheritance/bin/Debug/net9.0/nested_inheritance.runtimeconfig.json
+/Users/charles/Desktop/csharp-scripts/nested_inheritance/bin/Debug/net9.0/nested_inheritance.dll
+/Users/charles/Desktop/csharp-scripts/nested_inheritance/bin/Debug/net9.0/nested_inheritance.pdb
+/Users/charles/Desktop/csharp-scripts/nested_inheritance/obj/Debug/net9.0/nested_inheritance.dll
+/Users/charles/Desktop/csharp-scripts/nested_inheritance/obj/Debug/net9.0/refint/nested_inheritance.dll
+/Users/charles/Desktop/csharp-scripts/nested_inheritance/obj/Debug/net9.0/nested_inheritance.pdb
+/Users/charles/Desktop/csharp-scripts/nested_inheritance/obj/Debug/net9.0/nested_inheritance.genruntimeconfig.cache
+/Users/charles/Desktop/csharp-scripts/nested_inheritance/obj/Debug/net9.0/ref/nested_inheritance.dll
