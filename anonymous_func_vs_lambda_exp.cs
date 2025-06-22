@@ -1,3 +1,7 @@
+// What are anonymous functions and lambda expressions?
+
+
+
 // In C#, anonymous functions and lambda expressions are ways to define inline methods—that is, 
 // methods without a name, often used to pass behavior as an argument (e.g., to LINQ, event handlers, etc.).
 
