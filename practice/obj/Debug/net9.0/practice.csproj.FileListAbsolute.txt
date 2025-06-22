@@ -1,0 +1,15 @@
+/Users/charles/Desktop/csharp-scripts/practice/bin/Debug/net9.0/practice
+/Users/charles/Desktop/csharp-scripts/practice/bin/Debug/net9.0/practice.deps.json
+/Users/charles/Desktop/csharp-scripts/practice/bin/Debug/net9.0/practice.runtimeconfig.json
+/Users/charles/Desktop/csharp-scripts/practice/bin/Debug/net9.0/practice.dll
+/Users/charles/Desktop/csharp-scripts/practice/bin/Debug/net9.0/practice.pdb
+/Users/charles/Desktop/csharp-scripts/practice/obj/Debug/net9.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charles/Desktop/csharp-scripts/practice/obj/Debug/net9.0/practice.AssemblyInfoInputs.cache
+/Users/charles/Desktop/csharp-scripts/practice/obj/Debug/net9.0/practice.AssemblyInfo.cs
+/Users/charles/Desktop/csharp-scripts/practice/obj/Debug/net9.0/practice.csproj.CoreCompileInputs.cache
+/Users/charles/Desktop/csharp-scripts/practice/obj/Debug/net9.0/practice.sourcelink.json
+/Users/charles/Desktop/csharp-scripts/practice/obj/Debug/net9.0/practice.dll
+/Users/charles/Desktop/csharp-scripts/practice/obj/Debug/net9.0/refint/practice.dll
+/Users/charles/Desktop/csharp-scripts/practice/obj/Debug/net9.0/practice.pdb
+/Users/charles/Desktop/csharp-scripts/practice/obj/Debug/net9.0/practice.genruntimeconfig.cache
+/Users/charles/Desktop/csharp-scripts/practice/obj/Debug/net9.0/ref/practice.dll
