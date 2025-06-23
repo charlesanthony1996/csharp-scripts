@@ -1,13 +1,13 @@
-# list is a collection
+// # list is a collection
 
-# List<T> is a generic collection in the System.Collections.Generic namespace
-# it represents a dynamically sized array of elements of type T
+// # List<T> is a generic collection in the System.Collections.Generic namespace
+// # it represents a dynamically sized array of elements of type T
 
-# Type safe -> only stores elements of type T
-# Resizable -> automatically resizes as elements are added / removed
-# Indexed access -> Access elements using list[0], list[1] etc
-# Supports linq -> easily query and manipulate items
-# Built in methods -> Add(), Remove(), Insert(), Sort(), Find()
+// # Type safe -> only stores elements of type T
+// # Resizable -> automatically resizes as elements are added / removed
+// # Indexed access -> Access elements using list[0], list[1] etc
+// # Supports linq -> easily query and manipulate items
+// # Built in methods -> Add(), Remove(), Insert(), Sort(), Find()
 
 using System;
 using System.Collections.Generic;
