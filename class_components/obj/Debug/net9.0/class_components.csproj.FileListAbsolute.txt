@@ -1,0 +1,15 @@
+/Users/charles/Desktop/csharp-scripts/class_components/obj/Debug/net9.0/class_components.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charles/Desktop/csharp-scripts/class_components/obj/Debug/net9.0/class_components.AssemblyInfoInputs.cache
+/Users/charles/Desktop/csharp-scripts/class_components/obj/Debug/net9.0/class_components.AssemblyInfo.cs
+/Users/charles/Desktop/csharp-scripts/class_components/obj/Debug/net9.0/class_components.csproj.CoreCompileInputs.cache
+/Users/charles/Desktop/csharp-scripts/class_components/obj/Debug/net9.0/class_components.sourcelink.json
+/Users/charles/Desktop/csharp-scripts/class_components/bin/Debug/net9.0/class_components
+/Users/charles/Desktop/csharp-scripts/class_components/bin/Debug/net9.0/class_components.deps.json
+/Users/charles/Desktop/csharp-scripts/class_components/bin/Debug/net9.0/class_components.runtimeconfig.json
+/Users/charles/Desktop/csharp-scripts/class_components/bin/Debug/net9.0/class_components.dll
+/Users/charles/Desktop/csharp-scripts/class_components/bin/Debug/net9.0/class_components.pdb
+/Users/charles/Desktop/csharp-scripts/class_components/obj/Debug/net9.0/class_components.dll
+/Users/charles/Desktop/csharp-scripts/class_components/obj/Debug/net9.0/refint/class_components.dll
+/Users/charles/Desktop/csharp-scripts/class_components/obj/Debug/net9.0/class_components.pdb
+/Users/charles/Desktop/csharp-scripts/class_components/obj/Debug/net9.0/class_components.genruntimeconfig.cache
+/Users/charles/Desktop/csharp-scripts/class_components/obj/Debug/net9.0/ref/class_components.dll
