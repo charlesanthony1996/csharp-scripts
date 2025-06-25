@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 
 class Graph {
@@ -18,8 +18,7 @@ class Graph {
     public void addedge(int vertex1, int vertex2) {
         addvertex(vertex1);
         addvertex(vertex2);
-        adjlist[vertex1].Add(vertex2);
-        adjlist[vertex2].Add(vertex1);
+        adjlist[vertex1].addvertex(vertex2);
     }
 
     public void printgraph() {

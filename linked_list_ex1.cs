@@ -14,13 +14,13 @@
 
 // # insertion/deletion is efficient (especially at the beginning)
 
-class node {
-    public int data;
-    public node next;
+class Node {
+    public int Data;
+    public Node Next;
 
-    public node(int data) {
-        data = data;
-        next = null;
+    public Node(int data) {
+        this.Data = data;
+        this.Next = null;
     }
 }
 
@@ -43,7 +43,7 @@ class node {
 // # easier to delete or insert at both ends
 
 
-class DNode{
+class DNode {
     public int Data;
     public DNode Next;
     public DNode Prev;
@@ -54,3 +54,17 @@ class DNode{
     }
 }
 
+
+
+// using Node and inheritance to create double Node for a doubly linked list
+
+class DNode : Node {
+    public DNode Prev;
+
+    public DNode(int data) : base(data) {
+        Prev = null;
+    }
+}
+
+
+// remember to comment out one DNode class and run the script -> dotnet script linked_list_ex1.cs
