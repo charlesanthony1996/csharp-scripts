@@ -23,7 +23,13 @@ class Graph {
     }
 
     public void printgraph() {
-        Console.WriteLine("printing...");
+        foreach(var vertex in adjlist) {
+            Console.Write($"{vertex.Key} -> ");
+            foreach(var neighbor in vertex.Value) {
+                Console.Write($"{neighbor} ");
+            }
+            Console.WriteLine();
+        }
     }
 
 }
@@ -31,7 +37,14 @@ class Graph {
 class Program {
     static void Main() {
         Graph g = new Graph();
-        g.addedge(1,1);
+        g.addedge(1, 2);
+        g.addedge(1, 3);
+        g.addedge(2, 4);
+        g.addedge(3, 4);
+        g.addedge(4, 5);
+
+
+
         g.printgraph();
     }
 }
