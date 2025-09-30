@@ -1,0 +1,15 @@
+/Users/charles/Desktop/csharp-scripts/MyApp/bin/Debug/net9.0/MyApp
+/Users/charles/Desktop/csharp-scripts/MyApp/bin/Debug/net9.0/MyApp.deps.json
+/Users/charles/Desktop/csharp-scripts/MyApp/bin/Debug/net9.0/MyApp.runtimeconfig.json
+/Users/charles/Desktop/csharp-scripts/MyApp/bin/Debug/net9.0/MyApp.dll
+/Users/charles/Desktop/csharp-scripts/MyApp/bin/Debug/net9.0/MyApp.pdb
+/Users/charles/Desktop/csharp-scripts/MyApp/obj/Debug/net9.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charles/Desktop/csharp-scripts/MyApp/obj/Debug/net9.0/MyApp.AssemblyInfoInputs.cache
+/Users/charles/Desktop/csharp-scripts/MyApp/obj/Debug/net9.0/MyApp.AssemblyInfo.cs
+/Users/charles/Desktop/csharp-scripts/MyApp/obj/Debug/net9.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/charles/Desktop/csharp-scripts/MyApp/obj/Debug/net9.0/MyApp.sourcelink.json
+/Users/charles/Desktop/csharp-scripts/MyApp/obj/Debug/net9.0/MyApp.dll
+/Users/charles/Desktop/csharp-scripts/MyApp/obj/Debug/net9.0/refint/MyApp.dll
+/Users/charles/Desktop/csharp-scripts/MyApp/obj/Debug/net9.0/MyApp.pdb
+/Users/charles/Desktop/csharp-scripts/MyApp/obj/Debug/net9.0/MyApp.genruntimeconfig.cache
+/Users/charles/Desktop/csharp-scripts/MyApp/obj/Debug/net9.0/ref/MyApp.dll
