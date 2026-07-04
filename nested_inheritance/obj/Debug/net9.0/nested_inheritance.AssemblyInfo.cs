@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("nested_inheritance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7795469090ec1bdc41184feb9bc155991755312f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ccd265be88721990c0d3136161b95ef288f547b")]
 [assembly: System.Reflection.AssemblyProductAttribute("nested_inheritance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("nested_inheritance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

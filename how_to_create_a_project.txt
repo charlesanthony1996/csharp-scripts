@@ -1,0 +1,7 @@
+dotnet new console -n MyApp
+
+cd MyApp
+
+dotnet build
+
+dotnet run

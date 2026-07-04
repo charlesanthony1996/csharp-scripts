@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GhitqexXYO0=",
+  "dgSpecHash": "FiOhQwBARmc=",
   "success": true,
   "projectFilePath": "/Users/charles/Desktop/csharp-scripts/class_components/class_components.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/charles/.nuget/packages/microsoft.netcore.app.ref/9.0.11/microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "/Users/charles/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.11/microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "/Users/charles/.nuget/packages/microsoft.netcore.app.host.osx-arm64/9.0.11/microsoft.netcore.app.host.osx-arm64.9.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
